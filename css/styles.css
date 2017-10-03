@@ -245,7 +245,7 @@ p {
     .profile-card header {
         width: auto;
         height: auto;
-        padding: 30px 20px;
+        padding: 30px 20px 15px;
         display: block;
         float: none;
         border-right: none;
@@ -254,7 +254,7 @@ p {
     .profile-card .profile-bio {
         width: auto;
         height: auto;
-        padding: 15px 20px 30px 20px;
+        padding: 15px 20px 25px 20px;
         display: block;
         float: none;
     }
